@@ -1,0 +1,12 @@
+{
+  "name": "planner",
+  "displayName": "planner",
+  "style":
+  {
+    "colors":
+    {
+      "primary": "#51FF4C",
+      "secondary": "#903A6B"
+    }
+  }
+}
